@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 About Me<br><br>🎓 TYCS Sem 5 Student<br><br>💻 Strong in Web Dev, Python applications, React, Node, JavaScript<br><br><br>📡 Working on EEG hardware, IoT, and safety surveillance (YOLOv5)<br><br><br><br>🧠 Researching Personalized Binaural Beats using ML + BCI data<br><br>🎮 Working on Snake and Ladder DSA project (Graph + BFS)<br>
+🚀 About Me<br><br>🎓 TYCS Sem 5 Student<br><br>💻 Strong in Web Dev, Python applications, React, Node, JavaScript<br><br>📡 Working on EEG hardware, IoT, and safety surveillance (YOLOv5)<br><br>🧠 Researching Personalized Binaural Beats using ML + BCI data<br><br>🎮 Working on Snake and Ladder DSA project (Graph + BFS)<br>
 
 
 # 💻 Tech Stack:
