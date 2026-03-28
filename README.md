@@ -35,7 +35,7 @@
   <a href="https://github.com/Shyamkano/SvaDhvani">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shyamkano&repo=SvaDhvani&theme=gruvbox&hide_border=true" alt="SvaDhvani Project Card" width="48%" />
   </a>
-  <a href="https://github.com/Shyamkano">
+  <a href="https://github.com/Shyamkano/groovli-app">
     <!-- Replace "YOUR_REPO_NAME_HERE" below with the actual name of your snake & ladder repository -->
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shyamkano&repo=groovli-app&theme=gruvbox&hide_border=true" alt="Groovli Project Card" width="48%" />
   </a>
